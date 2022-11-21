@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    align-items: center;
+    width: 1200px;
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.sidebar {
+    width: 20%;
+    height: 500px;
+    background-color: cadetblue;
+    padding-top: 30px;
+    float: left;
+}
+
+.sidebar:hover {
+    background-color: red;
+}
+
+.project1 {
+    background-color: rgb(99, 92, 92);
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.project1:hover {
+    background-color: white;
+}
+
+.project1 a {
+    text-decoration: none;
+    color: black;
+}
+
+.project1 a:hover {
+    color: red;
+}
+
+.project2 {
+    background-color: rgb(99, 92, 92);
+    text-align: center;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+.project2:hover {
+    background-color: white;
+}
+
+.project2 a {
+    text-decoration: none;
+    color: black;
+}
+
+.project2 a:hover {
+    color: red;
+}
+
+.project3 {
+    background-color: rgb(99, 92, 92);
+    text-align: center;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+.project3:hover {
+    background-color: white;
+}
+
+.project3 a {
+    text-decoration: none;
+    color: black;
+}
+
+.project3 a:hover {
+    color: red;
+}
+
+.content {
+    background-color: orange;
+    float: left;
+    width: 80%;
+    height: 530px;
+}
+
+.footer {
+    background-color: rgb(27, 121, 27);
+    clear: both;
+}
+
+.footer h2 {
+    text-align: center;
+}
+.button-side {
+    margin-top: 25px;
+}
+
+a.button {
+    background-color: dimgray;
+    color: #ffffff;
+    padding: 15px 100px;
+    display: inline-block;
+    margin-top: 7px;
+    text-decoration: none;
+}
+
+a.button:hover {
+    background-color: tomato;
+}
+
+form {
+    padding: 20px;
+    display: inline-block;
+}
+
+input, select {
+    padding: 3px;
+    margin-bottom: 3px;
+}
+
+.lebar {
+    width: 430px;
+}
+
+.submit {
+    padding: 2px 9px;
+}
